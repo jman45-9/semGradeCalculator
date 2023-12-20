@@ -4,7 +4,7 @@ This is a simple program to calculate the minimum grade that can be recived on
 finals to recive a desired grade when Quarter 1 and Quater 2 are worth 40% each
 and the final is 20%.
 
-**PLEASE DO NOT PUT IN NON-NUMERICAL VALUES INTO THE INPUT** \
+**PLEASE DO NOT PUT NON-NUMERICAL VALUES INTO THE INPUT** \
 It will error and will not give you you answer.
 
 The only dependency to run the program is Python3 for the TUI version and
